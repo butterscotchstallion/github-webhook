@@ -1,0 +1,83 @@
+{
+    "ref": "refs/heads/master",
+    "after": "ee30c6a6d471510a9a92ebaea518b3d794940804",
+    "before": "a98fc320a5dfc3c446f8703139297003c93722bf",
+    "created": false,
+    "deleted": false,
+    "forced": false,
+    "compare": "https://github.com/prgmrbill/guacbot/compare/a98fc320a5df...ee30c6a6d471",
+    "commits": [
+        {
+            "id": "ee30c6a6d471510a9a92ebaea518b3d794940804",
+            "distinct": true,
+            "message": "Removes debugging code",
+            "timestamp": "2013-10-12T11:11:15-07:00",
+            "url": "https://github.com/prgmrbill/guacbot/commit/ee30c6a6d471510a9a92ebaea518b3d794940804",
+            "author": {
+                "name": "PrgmrBill",
+                "email": "bill@prgmrbill.com",
+                "username": "prgmrbill"
+            },
+            "committer": {
+                "name": "PrgmrBill",
+                "email": "bill@prgmrbill.com",
+                "username": "prgmrbill"
+            },
+            "added": [],
+            "removed": [],
+            "modified": [
+                "plugins/ignore/index.js"
+            ]
+        }
+    ],
+    "head_commit": {
+        "id": "ee30c6a6d471510a9a92ebaea518b3d794940804",
+        "distinct": true,
+        "message": "Removes debugging code",
+        "timestamp": "2013-10-12T11:11:15-07:00",
+        "url": "https://github.com/prgmrbill/guacbot/commit/ee30c6a6d471510a9a92ebaea518b3d794940804",
+        "author": {
+            "name": "PrgmrBill",
+            "email": "bill@prgmrbill.com",
+            "username": "prgmrbill"
+        },
+        "committer": {
+            "name": "PrgmrBill",
+            "email": "bill@prgmrbill.com",
+            "username": "prgmrbill"
+        },
+        "added": [],
+        "removed": [],
+        "modified": [
+            "plugins/ignore/index.js"
+        ]
+    },
+    "repository": {
+        "id": 9546928,
+        "name": "guacbot",
+        "url": "https://github.com/prgmrbill/guacbot",
+        "description": "irc bot written with Node",
+        "watchers": 1,
+        "stargazers": 1,
+        "forks": 1,
+        "fork": false,
+        "size": 1138,
+        "owner": {
+            "name": "prgmrbill",
+            "email": "bill@prgmrbill.com"
+        },
+        "private": false,
+        "open_issues": 8,
+        "has_issues": true,
+        "has_downloads": true,
+        "has_wiki": true,
+        "language": "JavaScript",
+        "created_at": 1366380880,
+        "pushed_at": 1381601486,
+        "master_branch": "master"
+    },
+    "pusher": {
+        "name": "prgmrbill",
+        "email": "bill@prgmrbill.com"
+    }
+}
